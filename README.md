@@ -13,5 +13,3 @@
 7. update the main.py
 8. update the app.py
 
-
-## https://github.com/VigneshvickyData/Data_Branching/raw/refs/heads/main/samsumdata.zip
